@@ -1,4 +1,4 @@
-# [Name of the Project] : [Team Number]
+# [StudyVerse] : [8]
 # Members
 Project Manager: [Name] ([GitHub Name])\
 Communications Lead: Marcus Reese (MarcusReese1)\
